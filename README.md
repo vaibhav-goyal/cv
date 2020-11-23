@@ -7,36 +7,32 @@ goyalvaibhav@outlook.com | +1-647-676-1701 | Greater Toronto Area, Canada
 ## SUMMARY
 
 Solution Architect and Developer at heart with experience in designing and building No-Code platforms and embedded BI solutions.
-Technical focus areas include Microservices, Observability in Microservices, Cloud and Web Platforms, No-Code and Embedded BI.
+
+Technical focus areas include Microservices, Observability in Microservices, Cloud and Web Platforms, CI/CD, No-Code and Embedded BI.
 
 ## EXPERIENCE
 
 #### Technical Lead @ Method:CRM, Toronto, Canada | May 2019 - Present
+Key Tools and Skills: ASP.NET Core, OData,RabbitMQ, SQL Server, MongoDB, Elastic Search, AWS, Identity Server, Swagger, ReDoc, Telegraf, InfluxDB, Grafana, ELK, Jenkins, TFS, Ansible
 
 - Technical Leadership and mentoring:  3 member development team.
-- Design, Build and Run developer API ecosystem for No-Code platform, loosely implements OData spec, [Method API | Documentation](https://developer.method.me/)
-  - Platform: ASP.NET Core, OData, SQL Server, MongoDB, AWS, Identity Server
-  - API Documentation: Swagger, ReDoc
-  - Observability: Telegraf, InfluxDB, Grafana, ELK
-  - CI/CD: TFS and Ansible
-  - API Tests: Jenkins, Postman/Newman
+- Design, Build and Run developer API ecosystem for No-Code platform, loosely implements OData spec, [Method API | Documentation](https://developer.method.me/).
 - Design and Build Data Access Layer and Rules Execution Engine for No-Code platform
-  - Platform: .NET Core, RabbitMQ, Elastic Search
-  - Patterns: Mediator, Unit of Work, Plugin/Decorator, Outbox
 - Build and maintain Zapier integration for CRM system. [Method CRM Integrations | Connect Your Apps with Zapier](https://zapier.com/apps/method-crm/integrations).
 
 #### Solution Architect @ TechBlocks, Toronto, Canada | June 2018 - March 2019
-
+Key Tools and Skills: Microservices, React, Azure IOT, CQRS, DDD, Jenkins, Octopus Deploy, ASP.NET Core, RabbitMQ
 - Technical Leadership and mentoring:  6 member development team.
 - Proof of Concept cloud solution for smart thermostat using Azure IOT Hub and Azure IOT DPS.
 - Pre-Sales, design and development of micro-services solution for internal product distribution solution for a leading car manufacturer in Canada.
-  - Platform: ASP.NET Core, SQL Server, MongoDB, Identity Server, React
-  - CI/CD: Github, Jenkins, Octopus Deploy
-  - Microservices, DDD, Mediator, CQRS
+  
 
 #### Solution Architect @ GE Digital (Meridium), Bangalore, India | Aug 2010 - May 2018
 
-Key Tools and Skills: Microsoervices, ASP.NET WEB API, ASP.NET Core, Azure, Cloud Foundry, KnockoutJS, SSAS, SSRS, Quartz.NET
+Key Tools and Skills: Microsoervices, ASP.NET WEB API, ASP.NET Core, Azure, Cloud Foundry, KnockoutJS, SSAS, SSRS, Quartz.NET, RabbitMQ
+
+[GE APM](https://www.ge.com/digital/applications/asset-performance-management)
+
 - Technical Leadership and mentoring: 10 member development team.
 - Analytical DB evaluation: AWS Redshift,  Azure SQL Warehouse, SQL Server Column Store
 - Embedded BI product evaluation: Power BI Embedded, TIBCO Jaspersoft, SiSense
