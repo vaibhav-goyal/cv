@@ -12,7 +12,7 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 
 ### Technical Lead @ Method:CRM, Toronto, Canada | May 2019 - Present
 
-Key Tools and Skills: ASP.NET Core, OData, RabbitMQ, SQL Server, MongoDB, Elastic Search, AWS, Identity Server, Swagger, ReDoc, Telegraf, InfluxDB, Grafana, ELK, Jenkins, TFS, Ansible
+Key Tools and Skills: `ASP.NET Core`, OData, RabbitMQ, SQL Server, MongoDB, Elastic Search, AWS, Identity Server, Swagger, ReDoc, Telegraf, InfluxDB, Grafana, ELK, Jenkins, TFS, Ansible
 
 - Technical Leadership and mentoring:  3 member development team.
 - Design, Build, and Run developer API ecosystem for No-Code platform, loosely implement OData spec, [Method API | Documentation](https://developer.method.me/).
