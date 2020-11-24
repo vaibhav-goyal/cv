@@ -1,8 +1,6 @@
 # Vaibhav Goyal
 
-:email: goyalvaibhav@outlook.com | :telephone_receiver: +1-647-676-1701 | :house: Greater Toronto Area, Canada
-
-----
+:email: goyalvaibhav@outlook.com :telephone_receiver: +1-647-676-1701 :house: Greater Toronto Area, Canada
 
 Solution Architect and Developer at heart with experience in designing and building No-Code platforms and embedded BI solutions.
 
@@ -16,9 +14,9 @@ _Skills:_ `ASP.NET Core`, `OData`, `Microservices`, `CQRS`, `DDD` `RabbitMQ`, `M
 , `InfluxDB`, `Grafana`, `ELK`, `TFS`, `Jenkins`, `Ansible`
 
 - Technical Leadership and mentoring:  3 member development team.
-- Design, Build, and Run developer API ecosystem for No-Code platform. [Method API | Documentation](https://developer.method.me/)
+- Design, Build, and Run developer API ecosystem for No-Code platform. [Method API](https://developer.method.me/)
 - Design and Build Data Access Layer and Rules Execution Engine for No-Code platform.
-- Build and maintain Zapier integration for CRM system. [Method CRM Integrations | Connect Your Apps with Zapier](https://zapier.com/apps/method-crm/integrations)
+- Build and maintain Zapier integration for CRM system. [Method CRM Integrations Zapier](https://zapier.com/apps/method-crm/integrations)
 
 **Solution Architect** @ [TechBlocks](https://tblocks.com/) _Toronto, Canada (June 2018 - March 2019)_
 
