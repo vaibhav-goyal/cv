@@ -1,4 +1,4 @@
-# VAIBHAV GOYAL
+# Vaibhav Goyal
 
 :email: goyalvaibhav@outlook.com | :telephone_receiver: +1-647-676-1701 | :house: Greater Toronto Area, Canada
 
@@ -10,53 +10,54 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 
 ## Experience
 
-### Technical Lead @ Method:CRM, Toronto, Canada | May 2019 - Present
+**Technical Lead** @ [Method:CRM]() _Toronto, Canada (May 2019 - Present)_
 
-Key Tools and Skills: ASP.NET Core, OData, RabbitMQ, SQL Server, MongoDB, Elastic Search, AWS, Identity Server, Swagger, ReDoc, Telegraf, InfluxDB, Grafana, ELK, Jenkins, TFS, Ansible
+_Skills:_ `ASP.NET Core`, `OData`, `Microservices`, `CQRS`, `DDD` `RabbitMQ`, `MongoDB`, `Elastic Search`, `AWS`, `Telegraf`
+, `InfluxDB`, `Grafana`, `ELK`, `TFS`, `Jenkins`, `Ansible`
 
 - Technical Leadership and mentoring:  3 member development team.
-- Design, Build, and Run developer API ecosystem for No-Code platform, loosely implement OData spec, [Method API | Documentation](https://developer.method.me/).
-- Design and Build Data Access Layer and Rules Execution Engine for No-Code platform
-- Build and maintain Zapier integration for CRM system. [Method CRM Integrations | Connect Your Apps with Zapier](https://zapier.com/apps/method-crm/integrations).
+- Design, Build, and Run developer API ecosystem for No-Code platform. [Method API | Documentation](https://developer.method.me/)
+- Design and Build Data Access Layer and Rules Execution Engine for No-Code platform.
+- Build and maintain Zapier integration for CRM system. [Method CRM Integrations | Connect Your Apps with Zapier](https://zapier.com/apps/method-crm/integrations)
 
-### Solution Architect @ TechBlocks, Toronto, Canada | June 2018 - March 2019
+**Solution Architect** @ [TechBlocks](https://tblocks.com/) _Toronto, Canada (June 2018 - March 2019)_
 
-Key Tools and Skills: Microservices, React, Azure IOT, CQRS, DDD, Jenkins, Octopus Deploy, ASP.NET Core, RabbitMQ
+_Skills:_ `ASP.NET Core`, `Azure IOT`, `Microservices`, `CQRS`, `DDD`, `RabbitMQ`, `MongoDB`, `Azure DevOps`, `Jenkins`, `Octopus Deploy`
 
 - Technical Leadership and mentoring:  6 member development team.
 - Proof of Concept cloud solution for a smart thermostat using Azure IOT Hub and Azure IOT DPS.
-- Pre-Sales, design, and development of a microservices solution for internal product distribution solution for a leading car manufacturer in Canada.
+- Pre-Sales, design, and development of internal product distribution solution for a leading car manufacturer.
   
 
-### Solution Architect @ GE Digital (Meridium), Bangalore, India | Aug 2010 - May 2018
+**Solution Architect** @ [GE Digital and Meridium](https://www.ge.com/digital/applications/asset-performance-management) _Bangalore, India (Aug 2010 - May 2018)_
 
-Key Tools and Skills: Microservices, ASP.NET WEB API, ASP.NET Core, Azure, Cloud Foundry, KnockoutJS, SSAS, SSRS, Quartz.NET, RabbitMQ
-
-[GE APM](https://www.ge.com/digital/applications/asset-performance-management)
+_Skills:_ `ASP.NET Core`, `Microservices`, `Azure`, `Cloud Foundry`, `KnockoutJS`, `SSAS`, `SSRS`, `Power BI`, `Quartz.NET`, `RabbitMQ`
 
 - Technical Leadership and mentoring: 10 member development team.
-- Design and build asset benchmarking solution.
-- Design and build the product’s embedded BI platform.
-- Design and build a no-code platform's metadata design and management application.
-- Design and build a no-code platform's job scheduling application.
+- Design and build APM benchmarking solution.
+- Design and build no-code platform's embedded BI platform.
+- Design and build no-code platform's metadata design and management application.
+- Design and build no-code platform's job scheduling application.
 - Design and build tenant provisioning and on-boarding solution.
 
-### Module Lead @ Proteans Software (Client: Meridium), Bangalore, India | Feb 2008 - Aug 2010
+**Module Lead** @ Proteans Software (Client: Meridium) _Bangalore, India (Feb 2008 - Aug 2010)_
 
-- Design and development of enhancement and upgrades of the product's BI module.   
-- Design and develop an Excel-like data entry solution in Silverlight extensively using templates and custom controls.    
-- Development and support of product's ASP.Net 2.0 Web Forms application.   
-- Development and support of product's reporting module. 
+_Skills:_ `ASP.NET Web Forms`, `WinForms`, `SSAS`, `SSRS`, `SQL Server`
+
+- Development and support of no-code platform's embedded BI module. 
+- Development and support of no-code platform's web portal. 
 
 
-### Software Engineer @ Sapient, Bangalore, India | June 2005 – Jan 2008
+**Software Engineer** @ [Sapient](https://www.publicissapient.com/), _Bangalore, India (June 2005 – Jan 2008)_
+
+_Skills:_ `ASP.NET Web Forms`, `WinForms`, `XML/XSLT`, `SQL Server`
 
 - Requirement gathering and documentation
-- Development of workflow management application in ASP.NET Webforms for a leading Gas Distribution and Utilities.
+- Development of workflow management application for a utilities company.
 
 ## GitHub
 
-- [DynamicODataToSQL](https://github.com/DynamicODataToSQL/DynamicODataToSQL): NuGet package to convert OData query to SQL query when the data model is dynamic and hence entity framework or any other ORM with IQuerable support cannot be used.
+- [DynamicODataToSQL](https://github.com/DynamicODataToSQL/DynamicODataToSQL): NuGet package to convert OData query to SQL query for dynamic datamodel/schema.
 - [MarsRoverPictureLibrary](https://github.com/vaibhav-goyal/MarsRoverPictureLibrary): ASP.NET Core, React and Docker showcase.
 
 ## Skills
@@ -70,4 +71,4 @@ Key Tools and Skills: Microservices, ASP.NET WEB API, ASP.NET Core, Azure, Cloud
 
 ## Education
 
-- B.Tech and M.Tech | Indian Institute of Technology, Madras, India | 2000 to 2005
+**B.Tech and M.Tech** [Indian Institute of Technology](https://www.iitm.ac.in/), _Madras, India (2000 to 2005)_
