@@ -1,6 +1,9 @@
 # Vaibhav Goyal
 
-:email: goyalvaibhav@outlook.com :telephone_receiver: +1-647-676-1701 :house: Greater Toronto Area, Canada
+|  |  |  |
+| ------------- | ------------- |------------- |
+| goyalvaibhav@outlook.com  | +1-647-676-1701  | Greater Toronto Area, Canada  |
+  
 
 Solution Architect and Developer at heart with experience in designing and building No-Code platforms and embedded BI solutions.
 
