@@ -59,12 +59,12 @@ _Skills:_ `ASP.NET Web Forms`, `WinForms`, `XML/XSLT`, `SQL Server`
 
 ## Skills
 
-- **Languages and Frameworks:** `C#` `.NET Core` `ASP.NET Core` `Javascript` `Typescript`
-- **Databases:** `SQL Server` `Mongo DB` `Elastic Search`
-- **Cloud and Hosting:** `Azure` `AWS` `Cloudfoundry` `Docker`
-- **DevOps:** `GitHub` `Jenkins` `Azure DevOps` `Ansible`
-- **Monitoring:** `Telegraf` `Influx` `Prometheus` `Grafana` `ELK`
-- **Frontend:** `HTML5` `CSS3` `React` `Angular` `KnockoutJS`
+- **Languages and Frameworks:** `C#`, `.NET Core`, `ASP.NET Core`, `Javascript`, `Typescript`
+- **Databases:** `SQL Server`, `Mongo DB`, `Elastic Search`
+- **Cloud and Hosting:** `Azure`, `AWS`, `Cloudfoundry`, `Docker`
+- **DevOps:** `GitHub`, `Jenkins`, `Azure DevOps`, `Ansible`
+- **Monitoring:** `Telegraf`, `Influx`, `Prometheus`, `Grafana`, `ELK`
+- **Frontend:** `HTML5`, `CSS3`, `React`, `Angular`, `KnockoutJS`
 
 ## Education
 
