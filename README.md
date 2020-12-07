@@ -1,4 +1,3 @@
-# Vaibhav Goyal
 :email: [goyalvaibhav@outlook.com](mailto:goyalvaibhav@outlook.com)
 :phone: [+1-647-676-1701](tel:+1-647-676-1701)
 
