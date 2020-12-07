@@ -1,2 +1,5 @@
-title: Vaibhav Goyal  
+title: Vaibhav Goyal
 theme: jekyll-theme-primer
+
+plugins:
+  - jemoji
