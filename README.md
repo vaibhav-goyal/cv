@@ -5,7 +5,7 @@ Solution Architect and Developer at heart with experience in designing and build
 
 Technical focus areas include Microservices, Observability in Microservices, Cloud and Web Platforms, CI/CD, No-Code, and Embedded BI.
 
-### Experience
+## Experience
 
 #### Technical Lead @ [Method:CRM](https://www.method.me/), Toronto, Canada (May 2019 - Present)
 
@@ -50,12 +50,12 @@ Skills: ASP.NET Web Forms, WinForms, XML/XSLT, SQL Server
 - Requirement gathering and documentation
 - Development of workflow management application for a utilities company.
 
-### GitHub
+## GitHub
 
 - [DynamicODataToSQL](https://github.com/DynamicODataToSQL/DynamicODataToSQL): NuGet package to convert OData query to SQL query for dynamic datamodel/schema.
 - [MarsRoverPictureLibrary](https://github.com/vaibhav-goyal/MarsRoverPictureLibrary): ASP.NET Core, React and Docker showcase.
 
-### Skills
+## Skills
 
 - **Languages and Frameworks:** C#, .NET Core, ASP.NET Core, Javascript, Typescript
 - **Databases:** SQL Server, Mongo DB, Elastic Search
@@ -64,6 +64,6 @@ Skills: ASP.NET Web Forms, WinForms, XML/XSLT, SQL Server
 - **Monitoring:** Telegraf, Influx, Prometheus, Grafana, ELK
 - **Frontend:** HTML5, CSS3, React, Angular, KnockoutJS
 
-### Education
+## Education
 
 **B.Tech and M.Tech @ [Indian Institute of Technology](https://www.iitm.ac.in/), Madras, India (2000 to 2005)**
