@@ -1,5 +1,4 @@
 :email: [goyalvaibhav@outlook.com](mailto:goyalvaibhav@outlook.com)
-:phone: [+1-647-676-1701](tel:+1-647-676-1701)
 
 Solution Architect and Developer at heart with experience in designing and building No-Code platforms and Embedded BI solutions.
 
