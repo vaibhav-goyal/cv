@@ -6,7 +6,7 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 
 ## Experience
 
-#### Technical Lead @ [Method:CRM](https://www.method.me/), Toronto, Canada (May 2019 - Present)
+#### Technical Lead @ [Method:CRM](https://www.method.me/), Toronto, Canada (May 2019 - Jan 2021)
 
 Skills: ASP.NET Core, OData, Microservices, CQRS, DDD, RabbitMQ, MongoDB, Elastic Search, AWS, Telegraf
 , InfluxDB, Grafana, TFS, Jenkins, Ansible
