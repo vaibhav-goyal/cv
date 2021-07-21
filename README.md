@@ -1,4 +1,3 @@
-# Vaibhav Goyal
 ✉️ [goyalvaibhav.triode@gmail.com](mailto:goyalvaibhav.triode@gmail.com) | 📞 [+918826969159](tel:+918826969159) | 🏠 [Bangalore, India](https://goo.gl/maps/iaamjgcBvFhMauYG6)
 
 Solution Architect and Developer at heart with experience in designing and building No-Code platforms and Embedded BI solutions.
