@@ -7,12 +7,10 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 **B.Tech and M.Tech @ [Indian Institute of Technology](https://www.iitm.ac.in/), Madras, India (2000 to 2005)**
 
 ## Skills
-- **Languages and Frameworks:** C#, .NET Core, ASP.NET Core, Javascript, Typescript
-- **Databases:** SQL Server, Mongo DB, Elastic Search
-- **Cloud and Hosting:** Azure, AWS, Cloudfoundry, Docker
-- **DevOps:** GitHub, Jenkins, Azure DevOps, Ansible
-- **Monitoring:** Telegraf, Influx, Prometheus, Grafana, ELK
-- **Frontend:** HTML5, CSS3, React, Angular, KnockoutJS
+
+| Languages and Frameworks | Databases | Cloud and Hosting | DevOps | Monitoring |
+|:---|:---|:---|:---|:---|
+|`C#` `ASP.NET Core` `Javascript` `HTML5` `CSS3` `React` | `SQL Server` `Mongo DB` `Elastic Search` | `Azure` `AWS` `Cloudfoundry` `Docker` | `GitHub` `Jenkins` `Azure DevOps` `Ansible` | `Telegraf` `Influx` `Grafana` `ELK` |
 
 ## GitHub
 - [DynamicODataToSQL](https://github.com/DynamicODataToSQL/DynamicODataToSQL): NuGet package to convert OData query to SQL query for dynamic datamodel/schema.
