@@ -1,4 +1,7 @@
-:email: [goyalvaibhav.triode@gmail.com](mailto:goyalvaibhav.triode@gmail.com)
+# Vaibhav Goyal
+:email: [goyalvaibhav.triode@gmail.com](mailto:goyalvaibhav.triode@gmail.com) 
+:phone: [+918826969159](tel:+918826969159)
+:house: [Bangalore, India](https://goo.gl/maps/iaamjgcBvFhMauYG6)
 
 Solution Architect and Developer at heart with experience in designing and building No-Code platforms and Embedded BI solutions.
 
