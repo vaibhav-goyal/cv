@@ -19,7 +19,6 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 
 ## GitHub
 - [DynamicODataToSQL](https://github.com/DynamicODataToSQL/DynamicODataToSQL): NuGet package to convert OData query to SQL query for dynamic datamodel/schema.
-- [MarsRoverPictureLibrary](https://github.com/vaibhav-goyal/MarsRoverPictureLibrary): ASP.NET Core, React and Docker showcase.
 
 ## Experience
 #### Director of Engineering @ [LeadSquared](https://www.leadsquared.com/), Bangalore, India (March 2021 - Present)
@@ -58,5 +57,3 @@ Skills: ASP.NET Web Forms, WinForms, SSAS, SSRS, SQL Server
 
 #### Software Engineer @ [Sapient](https://www.publicissapient.com/), Bangalore, India (June 2005 – Jan 2008)
 Skills: ASP.NET Web Forms, WinForms, XML/XSLT, SQL Server
-- Requirement gathering and documentation
-- Development of workflow management application for a utilities company.
