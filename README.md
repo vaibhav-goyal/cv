@@ -1,10 +1,9 @@
 # Vaibhav Goyal
-| ✉️ [goyalvaibhav.triode@gmail.com](mailto:goyalvaibhav.triode@gmail.com)        | 📞 [+918826969159](tel:+918826969159)         | 🏠 [Bangalore, India](https://goo.gl/maps/iaamjgcBvFhMauYG6) |
-|:-------------|:------------------|:------|
-
-
 Solution Architect and Developer at heart with experience in designing and building No-Code platforms and Embedded BI solutions.
 Technical focus areas include Microservices, Observability in Microservices, Cloud and Web Platforms, CI/CD, No-Code, and Embedded BI.
+
+| ✉️ [goyalvaibhav.triode@gmail.com](mailto:goyalvaibhav.triode@gmail.com)        | 📞 [+918826969159](tel:+918826969159)         | 🏠 [Bangalore, India](https://goo.gl/maps/iaamjgcBvFhMauYG6) |
+|:-------------|:------------------|:------|
 
 ## Education
 **B.Tech and M.Tech @ [Indian Institute of Technology](https://www.iitm.ac.in/), Madras, India (2000 to 2005)**
