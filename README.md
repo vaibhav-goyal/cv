@@ -3,8 +3,7 @@
 Solution Architect and Developer at heart with experience in designing and building No-Code platforms and Embedded BI solutions.
 Technical focus areas include Microservices, Observability in Microservices, Cloud and Web Platforms, CI/CD, No-Code, and Embedded BI.
 
-[Github Profile](https://github.com/vaibhav-goyal)
-[LinkedIn Profile](https://www.linkedin.com/in/vaibhav-goyal-2265b613/)
+[Github](https://github.com/vaibhav-goyal) &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/vaibhav-goyal-2265b613/)
 
 ## Education
 **B.Tech and M.Tech @ [Indian Institute of Technology](https://www.iitm.ac.in/), Madras, India (2000 to 2005)**
