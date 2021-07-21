@@ -25,7 +25,7 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 - Technical leadership and mentoring of multiple agile teams: 10 member development team. 
 - Identify technical debt and build roadmap for reduction.
 - Team building and hiring. 
-- Evangelise modern agile manifesto and practices. 
+- Evangelize modern agile manifesto and practices. 
 
 #### Technical Lead @ [Method:CRM](https://www.method.me/), Toronto, Canada (May 2019 - Jan 2021)
 Skills: ASP.NET Core, OData, Microservices, CQRS, DDD, RabbitMQ, MongoDB, Elastic Search, AWS, Telegraf
