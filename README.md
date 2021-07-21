@@ -8,9 +8,9 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 
 ## Skills
 
-| Languages and Frameworks | Databases | Cloud and Hosting | DevOps | Monitoring |
-|:---|:---|:---|:---|:---|
-|`C#` `ASP.NET Core` `Javascript` `HTML5` `CSS3` `React` | `SQL Server` `Mongo DB` `Elastic Search` | `Azure` `AWS` `Cloudfoundry` `Docker` | `GitHub` `Jenkins` `Azure DevOps` `Ansible` | `Telegraf` `Influx` `Grafana` `ELK` |
+| Languages and Frameworks | Databases | Cloud and Hosting | CI/CD Tools |
+|:---|:---|:---|:---|
+|`C#` `ASP.NET Core` `Javascript` `HTML5` `CSS3` `React` | `SQL Server` `Mongo DB` `Elastic Search` | `Azure` `AWS` `Cloudfoundry` `Docker` | `GitHub` `Azure DevOps` `Jenkins`  `Ansible` `Telegraf` `Influx` `Grafana` |
 
 ## GitHub
 - [DynamicODataToSQL](https://github.com/DynamicODataToSQL/DynamicODataToSQL): NuGet package to convert OData query to SQL query for dynamic datamodel/schema.
