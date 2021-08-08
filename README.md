@@ -36,11 +36,14 @@ Skills: ASP.NET Core, Azure IOT, Microservices, CQRS, DDD, RabbitMQ, MongoDB, Az
 - Proof of Concept cloud solution for a smart thermostat using Azure IOT Hub and Azure IOT DPS.
 - Pre-Sales, design, and development of internal product distribution solution for a leading car manufacturer.
 
-#### Solution Architect @ [GE Digital and Meridium](https://www.ge.com/digital/applications/asset-performance-management), Bangalore, India (Aug 2010 - May 2018)
+#### Director of Software Engineering @ [GE Digital and Meridium](https://www.ge.com/digital/applications/asset-performance-management), Bangalore, India (Jan 2017 - May 2018)
 Skills: ASP.NET Core, Microservices, Azure, Cloud Foundry, KnockoutJS, SSAS, SSRS, Power BI, Quartz.NET, RabbitMQ
 - Technical Leadership and mentoring: 10 member development team.
 - Design and build APM benchmarking solution.
 - Design and build no-code platform's embedded BI platform.
+
+#### Solution Architect @ [GE Digital and Meridium](https://www.ge.com/digital/applications/asset-performance-management), Bangalore, India (Aug 2010 - Dec 2016)
+Skills: ASP.NET Core, Microservices, Azure, Cloud Foundry, KnockoutJS, SSAS, SSRS, Power BI, Quartz.NET, RabbitMQ
 - Design and build no-code platform's metadata design and management application.
 - Design and build no-code platform's job scheduling application.
 - Design and build tenant provisioning and on-boarding solution.
