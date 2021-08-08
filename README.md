@@ -12,10 +12,11 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 |:---|:---|:---|:---|
 |`C#` `ASP.NET Core` `Javascript` `HTML5` `CSS3` `React` | `SQL Server` `Mongo DB` `Elastic Search` | `Azure` `AWS` `Cloudfoundry` `Docker` | `GitHub` `Azure DevOps` `Jenkins`  `Ansible` `Telegraf` `Influx` `Grafana` |
 
-## Projects
+## Significant Projects
 - **Opensource**: [DynamicODataToSQL](https://github.com/DynamicODataToSQL/DynamicODataToSQL): NuGet package to convert OData query to SQL query for dynamic datamodel/schema.
-- [Method CRM Developer API](https://developer.method.me/): RESTful Developer APi for NoCode and CRM platform.
-- [Method CRM Zapier Integration](https://zapier.com/apps/method-crm/integrations): Zapier integration for NoCode and CRM platform.
+- [Method:CRM Developer API](https://developer.method.me/): RESTful Developer API for NoCode and CRM platform.
+- [Method:CRM Zapier Integration](https://zapier.com/apps/method-crm/integrations): Zapier integration for NoCode and CRM platform.
+- [GE Digital:Asset Answers](https://www.ge.com/digital/blog/asset-answers): APM benchmartking solution hosted on azure. 
 
 ## Experience
 #### Director of Engineering @ [LeadSquared](https://www.leadsquared.com/), Bangalore, India (March 2021 - Present)
