@@ -7,6 +7,7 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 **B.Tech and M.Tech @ [Indian Institute of Technology](https://www.iitm.ac.in/), Madras, India (2000 to 2005)**
 
 ## Skills
+
 | Languages and Frameworks | Databases | Cloud and Hosting | Tools |
 |:---|:---|:---|:---|
 |`C#` `ASP.NET Core` `Javascript` `HTML5` `CSS3` `React` | `SQL Server` `Mongo DB` `Elastic Search` | `Azure` `AWS` `Cloudfoundry` `Docker` | `GitHub` `Azure DevOps` `Jenkins`  `Ansible` `Telegraf` `Influx` `Grafana` |
