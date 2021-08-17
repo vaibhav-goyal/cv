@@ -19,7 +19,7 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 - [GE Digital:Asset Answers](https://www.ge.com/digital/blog/asset-answers): APM benchmartking solution hosted on azure. 
 
 ## Experience
-#### Director of Engineering @ [LeadSquared](https://www.leadsquared.com/), Bangalore, India (March 2021 - Present)
+#### Director of Engineering @ [LeadSquared](https://www.leadsquared.com/), Bangalore, India (March 2021 - July 2021)
 - Technical leadership and mentoring of multiple agile teams: 10 member development team. 
 - Identify technical debt and build roadmap for reduction.
 - Team building and hiring. 
