@@ -1,6 +1,6 @@
 ✉️ [goyalvaibhav@outlook.com](mailto:goyalvaibhav@outlook.com) &nbsp;&nbsp; 📞 [+91 88269 69159](tel:+91 88269 69159) &nbsp;&nbsp; 🏠 [Bangalore, India](https://goo.gl/maps/iaamjgcBvFhMauYG6) &nbsp;&nbsp; [Github](https://github.com/vaibhav-goyal) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/vaibhav-goyal-2265b613/)
 
-Solution Architect and Developer at heart with experience in designing and building No-Code platforms and Embedded BI solutions.
+15+ years experience as Team Leader, Architect and Developer in Microsoft .NET stack and Cloud. 
 Technical focus areas include Microservices, Observability in Microservices, Cloud and Web Platforms, CI/CD, No-Code, and Embedded BI.
 
 ## Education
