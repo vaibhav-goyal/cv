@@ -1,6 +1,6 @@
 ✉️ [goyalvaibhav@outlook.com](mailto:goyalvaibhav@outlook.com) &nbsp;&nbsp; 📞 [+91 88269 69159](tel:+91 88269 69159) &nbsp;&nbsp; 🏠 [Bangalore, India](https://goo.gl/maps/iaamjgcBvFhMauYG6) &nbsp;&nbsp; [Github](https://github.com/vaibhav-goyal) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/vaibhav-goyal-2265b613/)
 
-15+ years experience as Team Leader, Architect and Developer in Microsoft .NET stack and Cloud. 
+17+ years experience as Team Leader, Architect and Developer in Microsoft .NET stack and Cloud. 
 Technical focus areas include Microservices, Observability in Microservices, Cloud and Web Platforms, CI/CD, No-Code, and Embedded BI.
 
 ## Education
@@ -10,7 +10,7 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 
 | Languages and Frameworks | Databases | Cloud and Hosting | Tools |
 |:---|:---|:---|:---|
-|`C#` `dotnetcore` `aspnetcore` `Javascript` `HTML5` `CSS3` `React` | `SQLServer` `MongoDB` `ElasticSearch` | `Azure` `AWS` `Cloudfoundry` `Docker` | `GitHub` `Jenkins`  `Ansible` `Telegraf` `Influx` `Grafana` |
+|`C#` `.NET Framework` `.NET Core` `ASP.NET` `ASP.NET Core` `Python` `Javascript` `HTML5` `CSS3` `React` | `SQLServer` `MongoDB` `ElasticSearch` `Snowflake` `Apache SOLR` | `Azure` `AWS` `Cloudfoundry` `Docker` `Kubernetes` `Helm` | `GitHub` `Jenkins`  `Ansible` `Telegraf` `Influx` `Grafana` `Terraform` `Okta` `Apache Airflow` |
 
 ## Significant Projects
 - **Opensource**: [DynamicODataToSQL](https://github.com/DynamicODataToSQL/DynamicODataToSQL): NuGet package to convert OData query to SQL query for dynamic datamodel/schema.
@@ -19,6 +19,16 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 - [GE Digital:Asset Answers](https://www.ge.com/digital/blog/asset-answers): APM benchmartking solution hosted on azure. 
 
 ## Experience
+#### Principal Architect @ [Numerator](https://www.numerator.com/), Remote, India (Sept 2021 - Present)
+- Migrate VB6 application to `.NET Core` (.NET 7).
+- Design and Build Datafeeds using `Snowflake`, AWS and `Apache Airflow`.
+- Migrate from AWS Cognito to Okta for SSO and customer identity management.
+- Design and Build Data API's using `FastAPI` and `OData`.
+- Troubleshoot and resolve performance issues in `Apache SOLR` cluster.
+- Manage infrastucture in AWS and `Azure` using `Terraform`.
+- Build CI/CD pipelines in CircleCI, `Github Actions`, `Helm` and `Docker`.
+- Evangelize best practices for logging and secure data pipelines in multiple teams. 
+
 #### Director of Engineering @ [LeadSquared](https://www.leadsquared.com/), Bangalore, India (March 2021 - July 2021)
 - Technical leadership and mentoring of multiple agile teams: 10 member development team. 
 - Identify technical debt and build roadmap for reduction.
