@@ -1,6 +1,6 @@
 ✉️ [goyalvaibhav@outlook.com](mailto:goyalvaibhav@outlook.com) &nbsp;&nbsp; 📞 [+91 88269 69159](tel:+91 88269 69159) &nbsp;&nbsp; 🏠 [Bangalore, India](https://goo.gl/maps/iaamjgcBvFhMauYG6) &nbsp;&nbsp; [Github](https://github.com/vaibhav-goyal) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/vaibhav-goyal-2265b613/)
 
-17+ years experience as Team Leader, Architect and Developer in Microsoft .NET stack and Cloud. 
+19+ years experience as Team Leader, Architect and Developer in Microsoft .NET stack and Cloud. 
 Technical focus areas include Microservices, Observability in Microservices, Cloud and Web Platforms, CI/CD, No-Code/Low-Code, and Embedded BI.
 
 ## Education
@@ -19,7 +19,13 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 - [GE Digital:Asset Answers](https://www.ge.com/digital/blog/asset-answers): APM benchmartking solution hosted on azure. 
 
 ## Experience
-#### Principal Architect @ [Numerator](https://www.numerator.com/), Remote, India (Sept 2021 - Present)
+
+#### Principal Software Engineer @[Chubb](https://www.chubb.com/), Bangalore, India (Apr 2024 - Present)
+- Design and build Batch Workflow module using `Argo Workflow` deployed in `Azure Kubernetes Cluster`.
+- Design and build live `.NET 8` based data migraion service for `Azure Cosmos DB`.
+- Improve resilency, perfomance and security of `.NET 8` microservices.
+  
+#### Principal Architect @ [Numerator](https://www.numerator.com/), Remote, India (Sept 2021 - March 2024)
 - Migrate VB6 application to `.NET Core` (.NET 7).
 - Design and Build Datafeeds using `Snowflake`, `AWS` and `Apache Airflow`.
 - Migrate from AWS Cognito to `Okta` for SSO and customer identity management.
