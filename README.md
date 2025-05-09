@@ -10,7 +10,7 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 
 | Languages and Frameworks | Databases | Cloud and Hosting | Tools |
 |:---|:---|:---|:---|
-|`C#` `.NET Framework` `.NET Core` `ASP.NET` `ASP.NET Core` `Python` `Javascript` `HTML5` `CSS3` `React` | `SQLServer` `MongoDB` `ElasticSearch` `Snowflake` `Apache SOLR` | `Azure` `AWS` `Cloudfoundry` `Docker` `Kubernetes` `Helm` | `GitHub` `Jenkins`  `Ansible` `Telegraf` `Influx` `Grafana` `Terraform` `Okta` `Apache Airflow` |
+|`C#` `.NET Framework` `.NET Core` `ASP.NET` `ASP.NET Core` `Python` `Javascript` `HTML5` `CSS3` `React` | `SQLServer` `MongoDB` `ElasticSearch` `Snowflake` `Apache SOLR` `Azure CosmosDb` | `Azure` `AWS` `Cloudfoundry` `Docker` `Kubernetes` `Helm` | `GitHub` `Jenkins`  `Ansible` `Telegraf` `Influx` `Grafana` `Terraform` `Okta` `Apache Airflow` `Argo Workflow` `Azure Batch`|
 
 ## Significant Projects
 - **Opensource**: [DynamicODataToSQL](https://github.com/DynamicODataToSQL/DynamicODataToSQL): NuGet package to convert OData query to SQL query for dynamic datamodel/schema.
@@ -22,6 +22,7 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 
 #### Principal Software Engineer @[Chubb](https://www.chubb.com/), Bangalore, India (Apr 2024 - Present)
 - Design and build Batch Workflow module using `Argo Workflow` deployed in `Azure Kubernetes Cluster`.
+- Design and build Batch Workflow module using `Azure Batch`.
 - Design and build live `.NET 8` based data migraion service for `Azure Cosmos DB`.
 - Improve resilency, perfomance and security of `.NET 8` microservices.
   
