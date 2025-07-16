@@ -8,7 +8,7 @@ Core competencies: `Software Architecture & Engineering Leadership`, `Microservi
 **B.Tech and M.Tech @ <a href="https://www.iitm.ac.in/" target="_blank">Indian Institute of Technology</a>, Madras, India (2000 to 2005)**
 
 ## Skills
-- **Languages and Frameworks**: `C#` ` .NET 4–8` `Python` `React`
+- **Languages and Frameworks**: `C#` `.NET 4–8` `Python` `React`
 - **Databases**: `SQL Server` `MongoDB` `ElasticSearch` `Snowflake` `Azure Cosmos DB`
 - **Cloud and Hosting**: `Azure` `AWS` `Cloud Foundry` `Docker` `Kubernetes` `Helm`
 - **Tools**: `Grafana` `Terraform` `Okta` `Apache Airflow` `Argo Workflow` `Azure Batch`
