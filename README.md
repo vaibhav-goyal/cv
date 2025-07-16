@@ -34,11 +34,6 @@ Core competencies: `Software Architecture & Engineering Leadership`, `Microservi
 - Managed infrastructure via Terraform across AWS and Azure.
 - Promoted observability and secure data pipeline practices through cross-team initiatives and blog publications.
 
-#### Director of Engineering @ [LeadSquared](https://www.leadsquared.com/), Bangalore, India (March 2021 - July 2021)
-- Oversaw agile delivery across multiple development teams.
-- Defined technical debt roadmap and hiring strategy.
-- Championed modern agile practices and engineering culture.
-
 #### Technical Lead @ [Method:CRM](https://www.method.me/), Toronto, Canada (May 2019 - Jan 2021)
 - Designed and launched developer APIs for a No-Code platform.
 - Created integration workflows with Zapier and built rules execution engines.
