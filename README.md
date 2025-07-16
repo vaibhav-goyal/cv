@@ -50,13 +50,14 @@ Skills: ASP.NET Core, Azure IOT, Microservices, CQRS, DDD, RabbitMQ, MongoDB, Az
 - Proof of Concept cloud solution for a smart thermostat using Azure IOT Hub and Azure IOT DPS.
 - Pre-Sales, design, and development of internal product distribution solution for a leading car manufacturer.
 
-#### Director of Software Engineering @ [GE Digital and Meridium](https://www.ge.com/digital/applications/asset-performance-management), Bangalore, India (Jan 2017 - May 2018)
-- Architected Azure IoT POCs including smart thermostat solutions.
-- Directed internal product distribution development for a global auto OEM.
+#### [GE Digital and Meridium](https://www.ge.com/digital/applications/asset-performance-management), Bangalore, India (Aug 2010 - May 2018)
+- **Director of Software Engineering** 
+  - Architected Azure IoT POCs including smart thermostat solutions.
+  - Directed internal product distribution development for a global auto OEM.
 
-#### Solution Architect @ [GE Digital and Meridium](https://www.ge.com/digital/applications/asset-performance-management), Bangalore, India (Aug 2010 - Dec 2016)
-- Built platforms for APM benchmarking, metadata management, tenant provisioning, and embedded BI.
-- Mentored teams across product development life cycles using microservices and cloud-native architectures.
+- **Solution Architect**
+  - Built platforms for APM benchmarking, metadata management, tenant provisioning, and embedded BI.
+  - Mentored teams across product development life cycles using microservices and cloud-native architectures.
 
 #### Module Lead @ Proteans Software (Client: Meridium), Bangalore, India (Feb 2008 - Aug 2010)
 - Delivered key modules for enterprise portals and embedded BI systems.
