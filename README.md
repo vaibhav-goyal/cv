@@ -8,26 +8,10 @@ Core competencies: `Software Architecture & Engineering Leadership`, `Microservi
 **B.Tech and M.Tech @ <a href="https://www.iitm.ac.in/" target="_blank">Indian Institute of Technology</a>, Madras, India (2000 to 2005)**
 
 ## Skills
-
-<table style="font-size:14px; border-collapse:collapse;">
-  <thead>
-    <tr>
-      <th style="padding:4px;">Languages and Frameworks</th>
-      <th style="padding:4px;">Databases</th>
-      <th style="padding:4px;">Cloud and Hosting</th>
-      <th style="padding:4px;">Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding:4px;">C#, .NET 4–8, Python, React</td>
-      <td style="padding:4px;">SQL Server, MongoDB, ElasticSearch, Snowflake, Azure Cosmos DB</td>
-      <td style="padding:4px;">Azure, AWS, Cloud Foundry, Docker, Kubernetes, Helm</td>
-      <td style="padding:4px;">Grafana, Terraform, Okta, Apache Airflow, Argo Workflow, Azure Batch</td>
-    </tr>
-  </tbody>
-</table>
-
+- **Languages and Frameworks**: `C#` ` .NET 4–8` `Python` `React`
+- **Databases**: `SQL Server` `MongoDB` `ElasticSearch` `Snowflake` `Azure Cosmos DB`
+- **Cloud and Hosting**: `Azure` `AWS` `Cloud Foundry` `Docker` `Kubernetes` `Helm`
+- **Tools**: `Grafana` `Terraform` `Okta` `Apache Airflow` `Argo Workflow` `Azure Batch`
 
 ## Significant Projects
 - **Opensource**: <a href="https://github.com/DynamicODataToSQL/DynamicODataToSQL" target="_blank">DynamicODataToSQL</a>: NuGet package to convert OData query to SQL query for dynamic datamodel/schema.
