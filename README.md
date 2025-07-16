@@ -9,9 +9,25 @@ Core competencies: `Software Architecture & Engineering Leadership`, `Microservi
 
 ## Skills
 
-| Languages and Frameworks | Databases | Cloud and Hosting | Tools |
-|:---|:---|:---|:---|
-|`C#` `.NET 4-8` `Python` `React` | `SQLServer` `MongoDB` `ElasticSearch` `Snowflake` `Azure CosmosDb` | `Azure` `AWS` `Cloudfoundry` `Docker` `Kubernetes` `Helm` | `Grafana` `Terraform` `Okta` `Apache Airflow` `Argo Workflow` `Azure Batch`|
+<table style="font-size:14px; border-collapse:collapse;">
+  <thead>
+    <tr>
+      <th style="padding:4px;">Languages and Frameworks</th>
+      <th style="padding:4px;">Databases</th>
+      <th style="padding:4px;">Cloud and Hosting</th>
+      <th style="padding:4px;">Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:4px;">C#, .NET 4–8, Python, React</td>
+      <td style="padding:4px;">SQL Server, MongoDB, ElasticSearch, Snowflake, Azure Cosmos DB</td>
+      <td style="padding:4px;">Azure, AWS, Cloud Foundry, Docker, Kubernetes, Helm</td>
+      <td style="padding:4px;">Grafana, Terraform, Okta, Apache Airflow, Argo Workflow, Azure Batch</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Significant Projects
 - **Opensource**: <a href="https://github.com/DynamicODataToSQL/DynamicODataToSQL" target="_blank">DynamicODataToSQL</a>: NuGet package to convert OData query to SQL query for dynamic datamodel/schema.
