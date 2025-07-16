@@ -1,7 +1,9 @@
 ✉️ [goyalvaibhav@outlook.com](mailto:goyalvaibhav@outlook.com) &nbsp;&nbsp; 📞 [+91 88269 69159](tel:+91 88269 69159) &nbsp;&nbsp; 🏠 [Bangalore, India](https://goo.gl/maps/iaamjgcBvFhMauYG6) &nbsp;&nbsp; [Github](https://github.com/vaibhav-goyal) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/vaibhav-goyal-2265b613/)
 
-19+ years experience as Team Leader, Architect and Developer in Microsoft .NET stack and Cloud. 
-Technical focus areas include Microservices, Observability in Microservices, Cloud and Web Platforms, CI/CD, No-Code/Low-Code, and Embedded BI.
+Experienced engineering professional with over 19 years of leadership in designing, building, and scaling technology platforms. Adept at steering cross-functional teams, driving innovation, and delivering high-impact software systems across cloud and enterprise environments. Proven expertise in solution architecture, platform modernization, and engineering operations.
+
+Core competencies: `Software Architecture & Engineering Leadership`, `Microservices & Distributed Systems`, `Cloud Platforms (Azure, AWS)`, `CI/CD & DevOps Practices`, `Observability & System Performance`, `No-Code/Low-Code Solutions`
+`Embedded Analytics & Business Intelligence`
 
 ## Education
 **B.Tech and M.Tech @ [Indian Institute of Technology](https://www.iitm.ac.in/), Madras, India (2000 to 2005)**
@@ -21,35 +23,26 @@ Technical focus areas include Microservices, Observability in Microservices, Clo
 ## Experience
 
 #### Principal Software Engineer @[Chubb](https://www.chubb.com/), Bangalore, India (Apr 2024 - Present)
-- Design and build Batch Workflow module using `Argo Workflow` deployed in `Azure Kubernetes Cluster`.
-- Design and build Batch Workflow module using `Azure Batch`.
-- Design and build live `.NET 8` based data migraion service for `Azure Cosmos DB`.
-- Improve resilency, perfomance and security of `.NET 8` microservices.
+- Built scalable batch workflows with Argo and Azure Batch, deployed in Kubernetes clusters.
+- Designed .NET 8 data migration services for Azure Cosmos DB.
+- Spearheaded improvements in performance, resilience, and security across microservices.
   
 #### Principal Architect @ [Numerator](https://www.numerator.com/), Remote, India (Sept 2021 - March 2024)
-- Migrate VB6 application to `.NET Core` (.NET 7).
-- Design and Build Datafeeds using `Snowflake`, `AWS` and `Apache Airflow`.
-- Migrate from AWS Cognito to `Okta` for SSO and customer identity management.
-- Design and Build Data API's using `FastAPI` and `OData`.
-- Troubleshoot and resolve performance issues in `Apache SOLR` cluster.
-- Manage infrastucture in `AWS` and `Azure` using `Terraform`.
-- Build CI/CD pipelines in CircleCI, `Github Actions`, `Helm` and `Docker`.
-- Evangelize best practices for logging and secure data pipelines in teams.
-- Publish posts to engineering blog.
+- Led migration of legacy VB6 applications to modern .NET Core architectures.
+- Developed data feeds using Snowflake, Apache Airflow, and AWS.
+- Transitioned SSO systems from AWS Cognito to Okta.
+- Managed infrastructure via Terraform across AWS and Azure.
+- Promoted observability and secure data pipeline practices through cross-team initiatives and blog publications.
 
 #### Director of Engineering @ [LeadSquared](https://www.leadsquared.com/), Bangalore, India (March 2021 - July 2021)
-- Technical leadership and mentoring of multiple agile teams: 10 member development team. 
-- Identify technical debt and build roadmap for reduction.
-- Team building and hiring. 
-- Evangelize modern agile manifesto and practices. 
+- Oversaw agile delivery across multiple development teams.
+- Defined technical debt roadmap and hiring strategy.
+- Championed modern agile practices and engineering culture.
 
 #### Technical Lead @ [Method:CRM](https://www.method.me/), Toronto, Canada (May 2019 - Jan 2021)
-Skills: ASP.NET Core, OData, Microservices, CQRS, DDD, RabbitMQ, MongoDB, Elastic Search, AWS, Telegraf
-, InfluxDB, Grafana, TFS, Jenkins, Ansible
-- Technical Leadership and mentoring:  3 member development team.
-- Design, Build, and Run developer API ecosystem for No-Code platform. [Method API](https://developer.method.me/)
-- Design and Build Data Access Layer and Rules Execution Engine for No-Code platform.
-- Build and maintain Zapier integration for CRM system. [Method CRM Integrations Zapier](https://zapier.com/apps/method-crm/integrations)
+- Designed and launched developer APIs for a No-Code platform.
+- Created integration workflows with Zapier and built rules execution engines.
+- Led a small cross-functional team and implemented observability tools like Telegraf and Grafana.
 
 #### Solution Architect @ [TechBlocks](https://tblocks.com/), Toronto, Canada (June 2018 - March 2019)
 Skills: ASP.NET Core, Azure IOT, Microservices, CQRS, DDD, RabbitMQ, MongoDB, Azure DevOps, Jenkins, Octopus Deploy
@@ -58,21 +51,16 @@ Skills: ASP.NET Core, Azure IOT, Microservices, CQRS, DDD, RabbitMQ, MongoDB, Az
 - Pre-Sales, design, and development of internal product distribution solution for a leading car manufacturer.
 
 #### Director of Software Engineering @ [GE Digital and Meridium](https://www.ge.com/digital/applications/asset-performance-management), Bangalore, India (Jan 2017 - May 2018)
-Skills: ASP.NET Core, Microservices, Azure, Cloud Foundry, KnockoutJS, SSAS, SSRS, Power BI, Quartz.NET, RabbitMQ
-- Technical Leadership and mentoring: 10 member development team.
-- Design and build APM benchmarking solution.
-- Design and build no-code platform's embedded BI platform.
+- Architected Azure IoT POCs including smart thermostat solutions.
+- Directed internal product distribution development for a global auto OEM.
 
 #### Solution Architect @ [GE Digital and Meridium](https://www.ge.com/digital/applications/asset-performance-management), Bangalore, India (Aug 2010 - Dec 2016)
-Skills: ASP.NET Core, Microservices, Azure, Cloud Foundry, KnockoutJS, SSAS, SSRS, Power BI, Quartz.NET, RabbitMQ
-- Design and build no-code platform's metadata design and management application.
-- Design and build no-code platform's job scheduling application.
-- Design and build tenant provisioning and on-boarding solution.
+- Built platforms for APM benchmarking, metadata management, tenant provisioning, and embedded BI.
+- Mentored teams across product development life cycles using microservices and cloud-native architectures.
 
 #### Module Lead @ Proteans Software (Client: Meridium), Bangalore, India (Feb 2008 - Aug 2010)
-Skills: ASP.NET Web Forms, WinForms, SSAS, SSRS, SQL Server
-- Development and support of no-code platform's embedded BI module. 
-- Development and support of no-code platform's web portal. 
+- Delivered key modules for enterprise portals and embedded BI systems.
+- Contributed to foundational development work in .NET and SQL Server environments.
 
 #### Software Engineer @ [Sapient](https://www.publicissapient.com/), Bangalore, India (June 2005 – Jan 2008)
 Skills: ASP.NET Web Forms, WinForms, XML/XSLT, SQL Server
