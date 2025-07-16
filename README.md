@@ -23,26 +23,26 @@ Core competencies: `Software Architecture & Engineering Leadership`, `Microservi
 ## Experience
 
 #### Principal Software Engineer @[Chubb](https://www.chubb.com/), Bangalore, India (Apr 2024 - Present)
-- Built scalable batch workflows with Argo and Azure Batch, deployed in Kubernetes clusters.
-- Designed .NET 8 data migration services for Azure Cosmos DB.
-- Spearheaded improvements in performance, resilience, and security across microservices.
+- Designed and deployed scalable batch processing workflows using Argo Workflows and Azure Batch to optimize compute-heavy operations.
+- Developed high-throughput .NET 8 data migration services for Azure Cosmos DB, improving reliability and maintainability of cloud-native applications.
+- Spearheaded systemic enhancements in performance, resilience, and security across microservices, driving measurable gains in platform stability.
   
 #### Principal Architect @ [Numerator](https://www.numerator.com/), Remote, India (Sept 2021 - March 2024)
-- Led migration of legacy VB6 applications to modern .NET Core architectures.
-- Developed data feeds using Snowflake, Apache Airflow, and AWS.
-- Transitioned SSO systems from AWS Cognito to Okta.
-- Managed infrastructure via Terraform across AWS and Azure.
-- Promoted observability and secure data pipeline practices through cross-team initiatives and blog publications.
+- Led modernization of legacy VB6 applications into modular .NET Core solutions, improving maintainability, scalability, and developer productivity.
+- Architected robust data pipelines and feeds leveraging Snowflake, Apache Airflow, and AWS services for advanced analytics and consumer intelligence.
+- Migrated enterprise SSO infrastructure from AWS Cognito to Okta, standardizing authentication and streamlining user access management.
+- Managed AWS infrastructure via Terraform, ensuring consistent provisioning and compliance.
+- Advocated for observability and data security practices through internal blogs and cross-functional collaboration, fostering engineering maturity.
 
 #### Technical Lead @ [Method:CRM](https://www.method.me/), Toronto, Canada (May 2019 - Jan 2021)
-- Designed and launched developer APIs for a No-Code platform.
-- Created integration workflows with Zapier and built rules execution engines.
-- Led a small cross-functional team and implemented observability tools like Telegraf and Grafana.
+- Architected and launched RESTful developer APIs for a No-Code CRM platform, enabling ecosystem extensibility and partner integrations.
+- Built automation workflows via Zapier integrations and developed dynamic rules execution engines to empower business logic customization.
+- Led a lean, cross-functional team and championed platform observability with tools like Telegraf and Grafana, enhancing system diagnostics.
 
 #### Solution Architect @ [TechBlocks](https://tblocks.com/), Toronto, Canada (June 2018 - March 2019)
-- Technical Leadership and mentoring:  6 member development team.
-- Proof of Concept cloud solution for a smart thermostat using Azure IOT Hub and Azure IOT DPS.
-- Pre-Sales, design, and development of internal product distribution solution for a leading car manufacturer.
+- Provided technical leadership and mentorship to a 6-member engineering team, fostering agile development practices and continuous delivery.
+- Delivered a cloud-based smart thermostat PoC using Azure IoT Hub and DPS, showcasing scalable telemetry and device provisioning.
+- Participated in pre-sales and architectural design of a product distribution platform for a leading automotive client, aligning technical delivery with business goals.
 
 #### [GE Digital and Meridium](https://www.ge.com/digital/applications/asset-performance-management), Bangalore, India (Aug 2010 - May 2018)
 - **Director of Software Engineering** 
@@ -55,7 +55,7 @@ Core competencies: `Software Architecture & Engineering Leadership`, `Microservi
   - Developed a job scheduling service to orchestrate complex workflows across tenants, improving automation and operational efficiency.
   - Built a provisioning automation system for seamless tenant onboarding, enabling dynamic tenant setup and reducing operational overhead.
 
-#### Module Lead @ Proteans Software (Client: Meridium), Bangalore, India (Feb 2008 - Aug 2010)
+#### Module Lead @ Proteans Software (Client: GE Digital and Meridium), Bangalore, India (Feb 2008 - Aug 2010)
 - Delivered key modules for enterprise portals and embedded BI systems.
 - Contributed to foundational development work in .NET and SQL Server environments.
 
