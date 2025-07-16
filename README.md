@@ -40,19 +40,20 @@ Core competencies: `Software Architecture & Engineering Leadership`, `Microservi
 - Led a small cross-functional team and implemented observability tools like Telegraf and Grafana.
 
 #### Solution Architect @ [TechBlocks](https://tblocks.com/), Toronto, Canada (June 2018 - March 2019)
-Skills: ASP.NET Core, Azure IOT, Microservices, CQRS, DDD, RabbitMQ, MongoDB, Azure DevOps, Jenkins, Octopus Deploy
 - Technical Leadership and mentoring:  6 member development team.
 - Proof of Concept cloud solution for a smart thermostat using Azure IOT Hub and Azure IOT DPS.
 - Pre-Sales, design, and development of internal product distribution solution for a leading car manufacturer.
 
 #### [GE Digital and Meridium](https://www.ge.com/digital/applications/asset-performance-management), Bangalore, India (Aug 2010 - May 2018)
 - **Director of Software Engineering** 
-  - Architected Azure IoT POCs including smart thermostat solutions.
-  - Directed internal product distribution development for a global auto OEM.
+  - Technical Leadership and mentoring: 10 member development team.
+  - Design and build APM benchmarking solution.
+  - Design and build no-code platform's embedded BI platform.
 
 - **Solution Architect**
-  - Built platforms for APM benchmarking, metadata management, tenant provisioning, and embedded BI.
-  - Mentored teams across product development life cycles using microservices and cloud-native architectures.
+  - Design and build no-code platform's metadata design and management application.
+  - Design and build no-code platform's job scheduling application.
+  - Design and build tenant provisioning and on-boarding solution.
 
 #### Module Lead @ Proteans Software (Client: Meridium), Bangalore, India (Feb 2008 - Aug 2010)
 - Delivered key modules for enterprise portals and embedded BI systems.
