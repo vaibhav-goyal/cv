@@ -46,14 +46,14 @@ Core competencies: `Software Architecture & Engineering Leadership`, `Microservi
 
 #### [GE Digital and Meridium](https://www.ge.com/digital/applications/asset-performance-management), Bangalore, India (Aug 2010 - May 2018)
 - **Director of Software Engineering** 
-  - Technical Leadership and mentoring: 10 member development team.
-  - Design and build APM benchmarking solution.
-  - Design and build no-code platform's embedded BI platform.
+  - Led a high-performing engineering team (10+ members) in delivering scalable and resilient platforms for industrial analytics and asset performance management (APM).
+  - Architected and launched Asset Answers, an Azure-hosted benchmarking solution that enabled advanced analytics and data-driven insights for global industrial clients.
+  - Designed and implemented an Embedded BI framework supporting real-time data visualizations, configurable dashboards, and extensible analytics modules.
 
 - **Solution Architect**
-  - Design and build no-code platform's metadata design and management application.
-  - Design and build no-code platform's job scheduling application.
-  - Design and build tenant provisioning and on-boarding solution.
+  - Engineered a metadata-driven design studio empowering users to define and manage flexible data schemas across multi-tenant environments.
+  - Developed a job scheduling service to orchestrate complex workflows across tenants, improving automation and operational efficiency.
+  - Built a provisioning automation system for seamless tenant onboarding, enabling dynamic tenant setup and reducing operational overhead.
 
 #### Module Lead @ Proteans Software (Client: Meridium), Bangalore, India (Feb 2008 - Aug 2010)
 - Delivered key modules for enterprise portals and embedded BI systems.
