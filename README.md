@@ -10,7 +10,7 @@ Core competencies: `Software Architecture & Engineering Leadership`, `Microservi
 ## Skills
 | Languages and Frameworks | Databases | Cloud and Hosting | Tools |
 |:---|:---|:---|:---|
-|`C#` `.NET Core`, `ASP.NET Core` `Python` `Javascript` `HTML5` `CSS3` `React` | `SQLServer` `MongoDB` `ElasticSearch` `Snowflake` `Apache SOLR` `Azure CosmosDb` `InfluxDB` | `Azure` `AWS` `Docker` `Kubernetes` `Helm` | `GitHub`, `Azure Devops` `Jenkins` `Telegraf` `Grafana` `Terraform` `Okta` `Apache Airflow` `Argo Workflow` `Azure Batch`|
+|`C#` `.NET Core` `ASP.NET Core` `Python` `Javascript` `HTML5` `CSS3` `React` | `SQLServer` `MongoDB` `ElasticSearch` `Snowflake` `Apache SOLR` `Azure CosmosDb` `InfluxDB` | `Azure` `AWS` `Docker` `Kubernetes` `Helm` | `GitHub`, `Azure Devops` `Jenkins` `Telegraf` `Grafana` `Terraform` `Okta` `Apache Airflow` `Argo Workflow` `Azure Batch`|
 
 ## Significant Projects
 - **Opensource**: <a href="https://github.com/DynamicODataToSQL/DynamicODataToSQL" target="_blank">DynamicODataToSQL</a>: NuGet package to convert OData query to SQL query for dynamic datamodel/schema.
