@@ -14,13 +14,15 @@ Core competencies: C#, .NET Core, Azure, Software Architecture, Microservices, D
 |:---|:---|:---|:---|
 | C#, .NET Core, Python, JavaScript, HTML5, CSS3, React | SQL Server, MongoDB, Elasticsearch, Snowflake, Apache SOLR, Azure Cosmos DB, InfluxDB | Azure, AWS, Docker, Kubernetes, Helm | GitHub, Azure DevOps, Telegraf, Grafana, Terraform, Apache Airflow, Argo Workflow, Azure Batch |
 
+## Opensource Projects on Github
+
+- [CosmosReplication](https://github.com/CosmosReplication/CosmosReplication/wiki) : Tool designed to help developers setup Continous Replication from source Azure CosmosDB container to target container. [![GitHub](https://img.shields.io/github/license/CosmosReplication/CosmosReplication?style=flat-square&logo=GitHub&label=GitHub)](https://github.com/CosmosReplication/CosmosReplication)
+ [![NuGet](https://img.shields.io/nuget/v/CosmosReplication?style=flat-square&logo=NuGet&label=NuGet)](https://www.nuget.org/packages/CosmosReplication) [![Docker](https://img.shields.io/docker/v/goyalvaibhav/cosmosreplication?style=flat-square&logo=docker&label=Docker)](https://hub.docker.com/r/goyalvaibhav/cosmosreplication)
+- [DynamicODataToSQL](https://github.com/DynamicODataToSQL/DynamicODataToSQL): .NET library to convert OData query to SQL query when the data model is dynamic and hence entity framework or any other ORM with IQuerable support cannot be used. In a multi-tenant enterprise or Saas applications, the data model is usually not fixed (dynamic). [![GitHub](https://img.shields.io/github/license/DynamicODataToSQL/DynamicODataToSQL?style=flat-square&logo=GitHub&label=GitHub)](https://github.com/DynamicODataToSQL/DynamicODataToSQL) [![NuGet](https://img.shields.io/nuget/v/DynamicODataToSQL?style=flat-square&logo=NuGet&label=NuGet)](https://www.nuget.org/packages/DynamicODataToSQL/) 
+
 ## Significant Projects
-
-- **CosmosReplication**: Opensource NuGet package, Docker Image and Helm Chart for Continous Replication from source Azure CosmosDB container to target container. ![GitHub Release](https://img.shields.io/github/v/release/CosmosReplication/CosmosReplication?style=for-the-badge&logo=GitHub&label=GitHub&link=https%3A%2F%2Fgithub.com%2FCosmosReplication%2FCosmosReplication%2Fwiki) ![NuGet Version](https://img.shields.io/nuget/v/CosmosReplication?style=for-the-badge&logo=CosmosReplication&label=NuGet&link=https%3A%2F%2Fwww.nuget.org%2Fpackages%2FCosmosReplication)
-- **DynamicODataToSQL**: Opensource NuGet package to convert OData queries to SQL for dynamic data models. ![GitHub Release](https://img.shields.io/github/v/release/DynamicODataToSQL/DynamicODataToSQL?style=for-the-badge&logo=GitHub&label=GitHub&link=https%3A%2F%2Fgithub.com%2FDynamicODataToSQL%2FDynamicODataToSQL) ![NuGet Version](https://img.shields.io/nuget/v/DynamicODataToSQL?style=for-the-badge&logo=DynamicODataToSQL&label=NuGet&link=https%3A%2F%2Fwww.nuget.org%2Fpackages%2FDynamicODataToSQL)
-
-- <a href="https://developer.method.me/" target="_blank">Method:CRM Developer API</a>: RESTful API for no-code and CRM platform.
-- <a href="https://zapier.com/apps/method-crm/integrations" target="_blank">Method:CRM Zapier Integration</a>: Zapier integration for CRM platform.
+- [Method:CRM Developer API](https://developer.method.me/): RESTful API for no-code and CRM platform.
+- [Method:CRM Zapier Integration](https://zapier.com/apps/method-crm/integrations): Zapier integration for CRM platform.
 
 ## Experience
 
