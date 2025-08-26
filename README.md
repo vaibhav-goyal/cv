@@ -16,7 +16,10 @@ Core competencies: C#, .NET Core, Azure, Software Architecture, Microservices, D
 
 ## Significant Projects
 
-- **Opensource**: <a href="https://github.com/DynamicODataToSQL/DynamicODataToSQL" target="_blank">DynamicODataToSQL</a>: NuGet package converting OData queries to SQL for dynamic data models.
+- **CosmosReplication**: Opensource NuGet package, Docker Image and Helm Chart for Continous Replication from source Azure CosmosDB container to target container.
+  ![GitHub Release](https://img.shields.io/github/v/release/CosmosReplication/CosmosReplication?style=for-the-badge&logo=Github&label=GitHub) ![NuGet Version](https://img.shields.io/nuget/v/CosmosReplication?style=for-the-badge&logo=CosmosReplication&label=NuGet)
+- **DynamicODataToSQL**: Opensource NuGet package to convert OData queries to SQL for dynamic data models.
+  ![GitHub Release](https://img.shields.io/github/v/release/DynamicODataToSQL/DynamicODataToSQL?style=for-the-badge&logo=Github&label=GitHub) ![NuGet Version](https://img.shields.io/nuget/v/DynamicODataToSQL?style=for-the-badge&logo=NuGet&label=NuGet)
 - <a href="https://developer.method.me/" target="_blank">Method:CRM Developer API</a>: RESTful API for no-code and CRM platform.
 - <a href="https://zapier.com/apps/method-crm/integrations" target="_blank">Method:CRM Zapier Integration</a>: Zapier integration for CRM platform.
 
